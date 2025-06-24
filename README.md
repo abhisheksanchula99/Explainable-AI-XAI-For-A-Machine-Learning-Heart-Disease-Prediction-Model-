@@ -72,7 +72,6 @@ We combine robust ML models (Random Forest, XGBoost, SVM, Neural Network, etc.) 
   - `feature_correlation_matrix.png`  
   - `lime_explanation.png`  
   - `model_results1.png`, `model_results2.png`  
-  (Rename as appropriate!)
 
 ---
 
